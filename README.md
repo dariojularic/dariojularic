@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning software development
+- 🔭 I am a web developer
 - ⚡ Fun fact: I'm also a driver
 
